@@ -16,6 +16,8 @@ namespace Learning
             Console.WriteLine(a+b*a);
             string s = $"val= {val}";
             Console.WriteLine(s);
+            Console.WriteLine(Int32.Parse("123"));
+
         }
 
     }
